@@ -1,6 +1,6 @@
 # 🌟 About Me  
 
-Hello! I'm **Ramchandra**, a passionate **Developer** and a **B.Tech CSE** student at **Parul University** (5th Semester, Class of 2026). My journey in technology revolves around creativity, innovation, and delivering impactful solutions.  
+Hello! I'm **Ramchandra**, a passionate **Developer** and a **B.Tech CSE** student at **Parul University** (6th Semester, Class of 2026). My journey in technology revolves around creativity, innovation, and delivering impactful solutions.  
 
 ---
 
