@@ -18,6 +18,15 @@ Hello! I'm **Ramchandra**, a passionate **Developer** and a **B.Tech CSE** stude
 - ⚙️ Dynamic Backend Solutions  
 
 ---
+## 🏆 Competitive Programming
+
+💻 **Competitive Coding Profiles:**  
+- 🏅 **[LeetCode](#)**  
+- 📊 **[Codeforces](#)**  
+- 🔥 **[HackerRank](#)**  
+- 🏆 **[CodeChef](#)**  
+- 📈 **[GeeksforGeeks](#)**  
+---
 
 ## 🚀 Current Projects  
 
