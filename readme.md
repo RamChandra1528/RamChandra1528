@@ -8,8 +8,8 @@ Hello! I'm **Ramchandra**, a passionate **Developer** and a **B.Tech CSE** stude
 
 **Languages & Frameworks:**  
 🖥️ **Programming:** Java, JavaScript, HTML, CSS  
-📦 **Backend:** Spring, Hibernate ORM  
-✨ **Frontend:** Bootstrap, Responsive Design  
+📦 **Backend:** Spring, Hibernate ORM,Node.js and Express.js 
+✨ **Frontend:** Bootstrap, Responsive Design,React.js 
 🛠️ **Tools:** WordPress, MySQL, Azure, Git  
 
 **Areas of Expertise:**  
