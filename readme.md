@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Blockchain%2FWeb3+Explorer+%F0%9F%94%97;Data+Science+Enthusiast+%F0%9F%93%8A;Final+Year+B.Tech+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;Blockchain%2FWeb3+Explorer+%F0%9F%94%97;Data+Science+Enthusiast+%F0%9F%93%8A;Software+Engineer+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +10,9 @@
 
 <div align="center">
 
-### 🌟 **B.Tech Computer Science & Engineering** | **Parul University** 🎓  
+### 🌟 **Software Engineer & Mobile Developer** | **B.Tech CSE** | **Parul University** 🎓  
 **Final Year Student | Graduating 2026**  
-*Building real-world solutions with innovation, clean architecture, and strong backend logic* ✨
+*Building scalable software solutions, mobile apps, and innovative technologies with clean architecture* ✨
 
 </div>
 
@@ -30,6 +30,12 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### 📱 **Mobile Development**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ### ⚙️ **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -37,9 +43,18 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### 💻 **Software Development**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=algorithm&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge&logo=algorithm&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-45B7D1?style=for-the-badge&logo=object&logoColor=white)
 ### 🗄️ **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🔗 **Blockchain/Web3**
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
@@ -59,6 +74,8 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 </div>
 
@@ -116,11 +133,11 @@
 
 <div align="center">
 
-| 🔗 **Blockchain/Web3** | 📊 **Data Science** | ☁️ **Cloud Technologies** |
-|:---:|:---:|:---:|
-| Smart Contract Development | Machine Learning Models | Azure & Firebase |
-| Solidity Programming | Data Visualization | Real-time Databases |
-| Web3.js Integration | Exploratory Data Analysis | Cloud Deployment |
+| 🔗 **Blockchain/Web3** | 📊 **Data Science** | ☁️ **Cloud Technologies** | 📱 **Mobile Development** |
+|:---:|:---:|:---:|:---:|
+| Smart Contract Development | Machine Learning Models | Azure & Firebase | React Native Apps |
+| Solidity Programming | Data Visualization | Real-time Databases | Flutter Development |
+| Web3.js Integration | Exploratory Data Analysis | Cloud Deployment | Native Android/iOS |
 
 </div>
 
@@ -156,10 +173,22 @@
 <br>🌐 **Full-Stack Web Development**
 </td>
 <td align="center">
+<img src="https://img.shields.io/badge/Mobile-Development-orange?style=for-the-badge" alt="Mobile"/>
+<br>📱 **Mobile App Development**
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Software-Engineering-red?style=for-the-badge" alt="Software"/>
+<br>💻 **Software Engineering**
+</td>
+<td align="center">
 <img src="https://img.shields.io/badge/Blockchain-Web3-purple?style=for-the-badge" alt="Blockchain"/>
 <br>🔗 **Blockchain/Web3 Development**
 </td>
-<td align="center">
+</tr>
+<tr>
+<td align="center" colspan="2">
 <img src="https://img.shields.io/badge/Data-Science-green?style=for-the-badge" alt="Data Science"/>
 <br>📊 **Data Science & Analytics**
 </td>
