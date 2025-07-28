@@ -154,7 +154,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RamChandra1528&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RamChandra1528&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true)](https://git.io/streak-stats)
 
 </div>
 
