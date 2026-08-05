@@ -169,7 +169,7 @@
 
 **🎓 Bachelor of Technology in Computer Science Engineering**
 - **University:** Parul University, Gujarat, India
-- **Graduation Year:** 2025 (Final Year Student)
+- **Graduation Year:** 2026
 - **Specialization:** Software Development, Web Technologies, Mobile App Development
 
 **📜 Relevant Coursework:**
