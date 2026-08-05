@@ -1,6 +1,6 @@
 # Ram Chandra - Full Stack Developer | Mobile App Developer | Software Engineer
 
-**🚀 Final Year B.Tech CSE Student at Parul University | Graduating 2025 | Software Developer | React Native | MERN Stack | Flutter | Blockchain Developer**
+**🚀 Final Year B.Tech CSE Student at Parul University | Graduating 2026 | Software Developer | React Native | MERN Stack | Flutter | Blockchain Developer**
 
 <div align="center">
   
